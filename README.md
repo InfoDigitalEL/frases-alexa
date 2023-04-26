@@ -1,4 +1,4 @@
-# Gerador de frases aleatórias
+# Pack de frases aleatórias
 Nó para Node-red contendo subflow que sorteia aleatóriamente uma frase, dentro de um banco de frases, para o uso com Alexa ou outro nó dentro do Node-red.
 
 O banco de frases é separado por **categorias** (Ex: frases de boa noite, frases de boas vindas, etc), divididas em **subcategorias**, que definem características das frases, como o tipo (Ex: Normais, Engraçadas, Sarcásticas, etc) e outras características, como frases singulares ou plurais.
